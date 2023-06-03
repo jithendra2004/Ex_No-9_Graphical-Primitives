@@ -120,7 +120,7 @@ public class MainActivity extends AppCompatActivity {
 ## Output:
 
 
-![output]()
+![output](https://github.com/jithendra2004/Ex_No-9_Graphical-Primitives/blob/main/j101.png)
 
 
 ## Result:
